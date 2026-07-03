@@ -1,6 +1,6 @@
 # 💫 Hey there, welcome to my GitHub!
 
-# I'm Shaikh Abdul Samad 👋
+# I'm Samad Shaikh 👋
 
 Welcome to my GitHub profile.
 
