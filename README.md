@@ -1,14 +1,17 @@
 # 💫 Hey there, welcome to my GitHub!
 
-I’m a **Data Analyst** passionate about building projects, exploring new tools, and making data tell a story. Here, you'll find:  
+# I'm Shaikh Abdul Samad 👋
 
-- 🛠️ Projects I’m building or contributing to  
-- 📊 Interesting data analyses and dashboards  
-- 🌱 Exploring new techniques, tools, and datasets
+Welcome to my GitHub profile.
+
+This profile brings together my projects, technical skills, and continuous learning in the field of Data Analytics. Here you'll find the work I'm building as I continue to learn, explore new technologies, and improve my skills.
+
+To learn more about me, explore my portfolio website, where you'll find my projects, resume, technical skills, GitHub activity, and other professional information.
+
+Portfolio Link  : https://samad-sk.github.io/
 
   > *"Data is not useful until it becomes information." – Seth Godin*
-  
-Whether you’re here to peek at my work or just curious about data, you’re in the right place📍  
+   
 
 Let’s connect,learn and grow together. Where curiosity meets code and data comes to life. 💻  
 
@@ -18,7 +21,6 @@ Let’s connect,learn and grow together. Where curiosity meets code and data com
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
