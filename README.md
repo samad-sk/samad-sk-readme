@@ -2,8 +2,6 @@
 
 # I'm Samad Shaikh 👋
 
-Welcome to my GitHub profile.
-
 This profile brings together my projects, technical skills, and continuous learning in the field of Data Analytics. Here you'll find the work I'm building as I continue to learn, explore new technologies, and improve my skills.
 
 To learn more about my work and experience, visit my portfolio website, where you'll find my projects, technical skills, resume, GitHub activity, and other professional details.
