@@ -6,12 +6,11 @@ This profile brings together my projects, technical skills, and continuous learn
 
 To learn more about my work and experience you can either visit my portfolio website or view project repositories. 
 
-Portfolio Link  : https://samad-sk.github.io/
-
-  > *"Data is not useful until it becomes information." – Seth Godin*
+Portfolio: https://samad-sk.github.io/
    
+⬇️ Scroll down to explore my featured project repositories.
 
-Let’s connect,learn and grow together. Where curiosity meets code and data comes to life. 💻  
+Let’s connect, learn, and grow together.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samadsk317) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samadshaikh22005@gmail.com) 
