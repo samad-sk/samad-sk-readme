@@ -2,7 +2,7 @@
 
 # I'm Samad Shaikh 👋
 
-This profile brings together my projects, technical skills, and continuous learning in the field of Data Analytics. Here you'll find the work I'm building as I continue to learn, explore new technologies, and improve my skills.
+This profile brings together my projects, technical skills, and continuous learning in the field of Data Analytics. Here, you'll find the work I'm building as I continue to learn, explore new technologies, and improve my skills.
 
 To learn more about my work and experience you can either visit my portfolio website or view project repositories. 
 
